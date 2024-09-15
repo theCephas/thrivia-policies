@@ -14,8 +14,8 @@ export default function Home() {
         style={{
           fontWeight: "bolder",
           fontSize: "1.15rem",
-          color: "#001d7e",
         }}
+        className="text-green-700"
       >
         This terms and conditions was last updated on 15 September, 2023
       </p>

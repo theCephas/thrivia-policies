@@ -38,7 +38,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="lg:w-[50%] md:w-[50%] w-full">
-          <form className="bg-[#000E3F] p-8 rounded-lg mt-8 mb-9">
+          <form className="bg-green-700 p-8 rounded-lg mt-8 mb-9">
             <h1 className="text-white text-xl">Send a message</h1>
             <div className="mt-6 flex flex-row flex-wrap gap-9 justify-between">
               <input

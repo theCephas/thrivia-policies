@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
           fontWeight: "bolder",
           fontSize: "1.15rem",
         }}
-        className="text-green-600"
+        className="text-green-700"
       >
         This privacy policy was last updated on 15 September, 2024
       </p>
